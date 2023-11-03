@@ -1,7 +1,7 @@
 public class divisibleby_3
 {
 	public static void main(String[] args) {
-	  //number divisible by 3 in Array
+	  //number divisible by 3 in Array 
 	  int[] arr={190,45,67,83,22};
 	  
 	  int count=0;
