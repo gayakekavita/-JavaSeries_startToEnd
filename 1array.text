@@ -1,0 +1,20 @@
+Array is a collection of similar elements .
+when we declare array before the main method then it is called as gloabal array declaration.
+-Global array declaration initially fills 0 at each cell of the array.
+-when we declare the array inside main method then it is called as local array declaration.
+- Local array declaration initiaaly fills garbage values at each cell of the array.
+- maximum array size that we can define is 10^6 . 
+-we cannot define size of array more than 10^6. 
+- when we declare array as global array then maximum size is 10^7.
+
+- when any question is given 
+   1. understand the problem 
+   2. ask for the number of test  cases
+   3. firstly solve using brute force algo.
+   4. go for better solution.
+   5. Then go for optimized (optimal)solution.
+
+-for sorting any array time complexity is O(nlogn).
+                       ----------------------------
+-
+   
